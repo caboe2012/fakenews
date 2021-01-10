@@ -1,6 +1,8 @@
 ## This repo contains data, analysis and code to predicts wether or not the news articles listed in the folder 'data' are REAL or FAKE
 
-### The notebooks contain a walk through of the 1. Data Preprocessing and Feature Engineering leveraging:
+### The notebooks contain a walk through of the
+
+1. Data Preprocessing and Feature Engineering leveraging:
  - EDA and Visualizations of the Data
  - Tfidfvectorizers
  - Stastical Analyses such as Chi-Square tests
